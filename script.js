@@ -1,4 +1,4 @@
-// คลาส Blog
+// คลาส Blog 
 class Blog {
     constructor(id, title, content, tags, createdDate = new Date(), updatedDate = new Date()) {
         this.id = id;
